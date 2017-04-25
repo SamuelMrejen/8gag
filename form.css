@@ -1,0 +1,76 @@
+.title {
+    margin-top:2em;
+    margin-bottom: 2em;
+    padding:0px;
+}
+
+h2 {
+    color:white;
+}
+
+.formulaire {
+    border: solid 1px #cecece;
+    margin-bottom: 5%;
+}
+
+.formulaire .form-group {
+    width:80%;
+    margin: 5% auto;
+}
+
+input {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+label {
+    color:white;
+    display: block;
+}
+
+button {
+    background: black;
+    display: inline-block;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px 20px 10px 20px;
+    border-radius: 4px;
+    border: 1px solid transparent;
+    color: #FFF;
+    font-size: 12px;
+}
+
+button:hover {
+    color:black;
+    background-color:white;
+    border: 1px solid black;
+    transition: all 0.5s;
+}
+
+.mdp {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+.mdp a {
+    color:white;
+}
+
+.button { /* profil */
+    margin-bottom: 5%;
+}
+
+.infos {/* profil */
+    margin: 5%;
+}
+
